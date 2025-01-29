@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 1160px;
+    height: 833px;
+    background-color: rgb(104, 104, 247);
+    border-radius: 40px;
+    margin: 58px auto;
+}   
+button{
+font-size: 12px;
+font-weight: 700;
+line-height: 14.52px;
+text-align: center;
+width: 200px;
+height: 40px;
+background-color: red;
+color: white;
+border-radius: 30px;
+border: none;
+margin: 58px auto;
+}
+header{
+    display: flex;
+    gap: 65px;
+}
+.rasmota{
+    display: flex;
+        margin-top: 68px;
+              margin-bottom: 41px;
+                    justify-content: space-between;
+}
+h1{
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+    width: 264px;
+    height: 118px;
+    margin: 0px auto;
+}
+p{
+    
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.52px;
+    text-align: center;
+    color: black;
+    padding: 28px 20px;
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    border: 45px solid red;
+    border-radius: 50px;
+}
+.textota{
+display: flex;
+justify-content: space-between;
+margin-top: 41px;
+}
